@@ -10,7 +10,7 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
 
 
-API_KEY = "655dfe055c0646cb867dbd30bb810371"
+API_KEY = "YOUR API KEY"
 END_POINT = "http://api.voicerss.org/?"
 
 
